@@ -1,0 +1,58 @@
+h1 {
+    color :hotpink;
+    text-decoration : underline;
+    text-transform: uppercase;
+}
+h2 {
+    color :royalblue;
+    text-decoration-thickness : bold;
+    text-transform : uppercase;
+}
+h3 {
+    text-decoration-thickness: bold;
+    text-transform : uppercase;
+}
+
+    #header {
+        text-align: center;
+vertical-align: middle;
+    }
+
+    #header {
+        font-size: 50px;
+    }
+
+    p{
+        font-size: 20px;
+    }
+
+    #all {
+        text-align: center;
+vertical-align: middle;
+
+    }
+    #languages1 {
+        text-align: center;
+        vertical-align: auto;
+    }
+    
+    #contact1 {
+        text-align: center;
+        vertical-align: auto;
+        font-size: medium;
+    }
+
+    #list1 {
+        text-align: center;
+        vertical-align: auto;
+        font-size: medium;
+        list-style-position: inside;
+    }
+
+    #contactgen {
+        color :fuchsia;
+        text-decoration-thickness : bold;
+        text-transform : uppercase;
+    }
+
+    
